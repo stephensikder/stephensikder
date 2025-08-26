@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @stephensikder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @stephensikder  
+
+- 👀 I’m interested in **Problem Solving, Database Systems, and Software Development**  
+- 🌱 I’m currently learning **Data Structures (DS) and Database Management Systems (DBMS)**  
+- 💞️ I’m looking to collaborate on **Java Projects, Web Development, and Open Source Contributions**  
+- 📫 How to reach me:  
+   [![Email](https://img.shields.io/badge/Email-stephensikder%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:stephensikder@gmail.com)  
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen%20Sikder-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stephen-sikder-b72925299)  
+   [![Behance](https://img.shields.io/badge/Behance-Portfolio-informational?style=for-the-badge&logo=behance)](https://www.behance.net/19a62faestephen)  
+
 
 <!---
 stephensikder/stephensikder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
