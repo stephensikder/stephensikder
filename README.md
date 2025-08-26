@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in **Problem Solving, Database Systems, and Software Development**  
 - 🌱 I’m currently learning **Data Structures (DS) and Database Management Systems (DBMS)**  
-- 💞️ I’m looking to collaborate on **Java Projects, Web Development, and Open Source Contributions**  
+- 💞️ I’m looking to collaborate on **Java, C, C++, HTML, CSS, and Python based projects**  
 - 📫 How to reach me:  
    [![Email](https://img.shields.io/badge/Email-stephensikder%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:stephensikder@gmail.com)  
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen%20Sikder-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stephen-sikder-b72925299)  
